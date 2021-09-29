@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Insight &#8211; MedicaLife</title>
+	<atom:link href="https://kit.baliniz.com/medicalife/category/insight/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kit.baliniz.com/medicalife</link>
+	<description>Health Care and Medical Elementor Template Kit by Baliniz</description>
+	<lastBuildDate>Sun, 01 Aug 2021 16:42:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+	<item>
+		<title>Why Primary Health Care Is Very Important in Our life?</title>
+		<link>https://kit.baliniz.com/medicalife/2021/05/30/why-primary-health-care-is-very-important-in-our-life/</link>
+					<comments>https://kit.baliniz.com/medicalife/2021/05/30/why-primary-health-care-is-very-important-in-our-life/#respond</comments>
+		
+		<dc:creator><![CDATA[Albert Doe]]></dc:creator>
+		<pubDate>Sun, 30 May 2021 14:21:15 +0000</pubDate>
+				<category><![CDATA[Insight]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<guid isPermaLink="false">https://kit.baliniz.com/hymedical/?p=130</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="130" class="elementor elementor-130" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-1e80f9dd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e80f9dd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3260064e" data-id="3260064e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c13cebf elementor-widget elementor-widget-jkit_post_title" data-id="2c13cebf" data-element_type="widget" data-widget_type="jkit_post_title.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-title jeg_module_130__6150d35fd12e5" ><h2 class="post-title style-color ">Why Primary Health Care Is Very Important in Our life?</h2></div>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-78d65552 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78d65552" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-41ddd1b2" data-id="41ddd1b2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3b644fab elementor-widget__width-initial elementor-view-default elementor-widget elementor-widget-icon" data-id="3b644fab" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="far fa-user-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-294264cf elementor-widget__width-auto elementor-widget elementor-widget-jkit_post_author" data-id="294264cf" data-element_type="widget" data-widget_type="jkit_post_author.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-author jeg_module_130_1_6150d35fd2655" ><p class="post-author ">Albert Doe</p></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-343ac4eb elementor-widget__width-initial elementor-view-default elementor-widget elementor-widget-icon" data-id="343ac4eb" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="far fa-calendar-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6e360324 elementor-widget__width-auto elementor-widget elementor-widget-jkit_post_date" data-id="6e360324" data-element_type="widget" data-widget_type="jkit_post_date.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-date jeg_module_130_2_6150d35fd3552" ><p class="post-date ">May 30, 2021</p></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-639d09e7 elementor-widget__width-initial elementor-view-default elementor-widget elementor-widget-icon" data-id="639d09e7" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="far fa-folder-open"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4cfb3a75 elementor-widget__width-auto elementor-widget elementor-widget-jkit_post_terms" data-id="4cfb3a75" data-element_type="widget" data-widget_type="jkit_post_terms.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-terms jeg_module_130_3_6150d35fd4403" ><span class="post-terms"><span class="term-list ">Insight</span></span></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-657d1a69 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="657d1a69" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4ddaec5d" data-id="4ddaec5d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6deec66c elementor-widget elementor-widget-jkit_post_featured_image" data-id="6deec66c" data-element_type="widget" data-widget_type="jkit_post_featured_image.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-featured-image jeg_module_130_4_6150d35fd876d" ><div class="post-featured-image "><img width="2000" height="1500" src="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare.jpg" class="attachment-full size-full wp-post-image" alt="Disability and healthcare" loading="lazy" srcset="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare.jpg 2000w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-300x225.jpg 300w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-1024x768.jpg 1024w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-768x576.jpg 768w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-1536x1152.jpg 1536w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-800x600.jpg 800w" sizes="(max-width: 2000px) 100vw, 2000px" /></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-569339b9 elementor-widget elementor-widget-text-editor" data-id="569339b9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum						</div>
+				</div>
+				<div class="elementor-element elementor-element-2a8e7f1b elementor-widget elementor-widget-heading" data-id="2a8e7f1b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">A Comprehensive Directory For Your Health Care</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7d297730 elementor-widget elementor-widget-text-editor" data-id="7d297730" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum						</div>
+				</div>
+				<div class="elementor-element elementor-element-50c747ae elementor-widget elementor-widget-text-editor" data-id="50c747ae" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6c97df76 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c97df76" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5b0a0254" data-id="5b0a0254" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-72a402ef elementor-widget elementor-widget-text-editor" data-id="72a402ef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Tag Post : 						</div>
+				</div>
+				<div class="elementor-element elementor-element-35ddf7b3 elementor-widget elementor-widget-jkit_post_terms" data-id="35ddf7b3" data-element_type="widget" data-widget_type="jkit_post_terms.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-terms jeg_module_130_5_6150d35fda6b3" ><span class="post-terms"><span class="term-list elementor-animation-float">Healthcare</span></span></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7c371272" data-id="7c371272" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-20649ea8 elementor-widget elementor-widget-text-editor" data-id="20649ea8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Share This : 						</div>
+				</div>
+				<div class="elementor-element elementor-element-a90bcab elementor-widget elementor-widget-elementskit-social-share" data-id="a90bcab" data-element_type="widget" data-widget_type="elementskit-social-share.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<ul class="ekit_socialshare">
+                            <li class="elementor-repeater-item-bfccd6f" data-social="facebook">
+                    <a class="facebook">
+                        
+                        <i aria-hidden="true" class="icon icon-facebook"></i>                        
+                                                                                            </a>
+                </li>
+                                            <li class="elementor-repeater-item-4fb1b67" data-social="twitter">
+                    <a class="twitter">
+                        
+                        <i aria-hidden="true" class="icon icon-twitter"></i>                        
+                                                                                            </a>
+                </li>
+                                            <li class="elementor-repeater-item-6734bb0" data-social="linkedin">
+                    <a class="linkedin">
+                        
+                        <i aria-hidden="true" class="icon icon-linkedin"></i>                        
+                                                                                            </a>
+                </li>
+                                    </ul>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-34c4c458 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="34c4c458" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-34fe590e elementor-widget elementor-widget-jkit_post_comment" data-id="34fe590e" data-element_type="widget" data-widget_type="jkit_post_comment.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-comment jeg_module_130_6_6150d35fdd47e" ></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b73e7d9" data-id="b73e7d9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-495dd1da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="495dd1da" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2094e5df" data-id="2094e5df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2611abb0 elementor-widget elementor-widget-heading" data-id="2611abb0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Recent Post</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f062c5d elementor-widget elementor-widget-elementskit-post-list" data-id="f062c5d" data-element_type="widget" data-widget_type="elementskit-post-list.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<ul class="elementor-icon-list-items ekit-post-list-wrapper ">
+						<li class="elementor-icon-list-item   ">
+				<a href="https://kit.baliniz.com/medicalife/2021/05/30/best-medical-network-directory-for-physicians-clients/" >
+					<img width="800" height="533" src="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/medical-council-1024x682.jpg" class="attachment-large size-large wp-post-image" alt="Medical Council" loading="lazy" srcset="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/medical-council-1024x682.jpg 1024w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/medical-council-300x200.jpg 300w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/medical-council-768x512.jpg 768w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/medical-council-1536x1024.jpg 1536w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/medical-council-800x533.jpg 800w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/medical-council.jpg 2000w" sizes="(max-width: 800px) 100vw, 800px" />					<div class="ekit_post_list_content_wraper">
+																		<div class="meta-lists">
+														<span class="meta-date">
+
+								
+								30 May 2021							</span>
+							
+													</div>
+						
+						<span class="elementor-icon-list-text">Best Medical Network Directory For Physicians &amp; Clients</span>
+
+											</div>
+				</a>
+			</li>
+					<li class="elementor-icon-list-item   ">
+				<a href="https://kit.baliniz.com/medicalife/2021/05/30/why-primary-health-care-is-very-important-in-our-life/" >
+					<img width="800" height="600" src="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="Disability and healthcare" loading="lazy" srcset="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-1024x768.jpg 1024w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-300x225.jpg 300w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-768x576.jpg 768w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-1536x1152.jpg 1536w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare-800x600.jpg 800w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/disability-and-healthcare.jpg 2000w" sizes="(max-width: 800px) 100vw, 800px" />					<div class="ekit_post_list_content_wraper">
+																		<div class="meta-lists">
+														<span class="meta-date">
+
+								
+								30 May 2021							</span>
+							
+													</div>
+						
+						<span class="elementor-icon-list-text">Why Primary Health Care Is Very Important in Our life?</span>
+
+											</div>
+				</a>
+			</li>
+					<li class="elementor-icon-list-item   ">
+				<a href="https://kit.baliniz.com/medicalife/2021/05/30/6-tips-to-protect-your-mental-health-when-youre-sick/" >
+					<img width="800" height="534" src="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/psychologist-and-patient-talking-in-clinic-mental-health-concept-1024x684.jpg" class="attachment-large size-large wp-post-image" alt="psychologist and patient talking in clinic, mental health concept" loading="lazy" srcset="https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/psychologist-and-patient-talking-in-clinic-mental-health-concept-1024x684.jpg 1024w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/psychologist-and-patient-talking-in-clinic-mental-health-concept-300x200.jpg 300w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/psychologist-and-patient-talking-in-clinic-mental-health-concept-768x513.jpg 768w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/psychologist-and-patient-talking-in-clinic-mental-health-concept-1536x1025.jpg 1536w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/psychologist-and-patient-talking-in-clinic-mental-health-concept-800x534.jpg 800w, https://kit.baliniz.com/medicalife/wp-content/uploads/sites/10/2021/05/psychologist-and-patient-talking-in-clinic-mental-health-concept.jpg 2000w" sizes="(max-width: 800px) 100vw, 800px" />					<div class="ekit_post_list_content_wraper">
+																		<div class="meta-lists">
+														<span class="meta-date">
+
+								
+								30 May 2021							</span>
+							
+													</div>
+						
+						<span class="elementor-icon-list-text">6 Tips to Protect Your Mental Health When You’re Sick</span>
+
+											</div>
+				</a>
+			</li>
+				</ul>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2dea6deb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2dea6deb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5a8eac81" data-id="5a8eac81" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-18537c3d elementor-widget elementor-widget-heading" data-id="18537c3d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">24 Hours Emergency Call</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-427aa6b8 elementor-widget elementor-widget-text-editor" data-id="427aa6b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore						</div>
+				</div>
+				<div class="elementor-element elementor-element-608a4ad6 elementor-align-center elementor-widget elementor-widget-button" data-id="608a4ad6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-phone-alt"></i>			</span>
+						<span class="elementor-button-text">(+021) 2336 278</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6a89f23c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a89f23c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7d8deb67" data-id="7d8deb67" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-36081614 elementor-widget elementor-widget-heading" data-id="36081614" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Categories</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1003ebc5 elementor-widget elementor-widget-elementskit-category-list" data-id="1003ebc5" data-element_type="widget" data-widget_type="elementskit-category-list.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://kit.baliniz.com/medicalife/category/health/" >
+                                                    <span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-chevron-right"></i>                            </span>
+                                                <span class="elementor-icon-list-text">Health</span>
+					</a>
+
+				</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://kit.baliniz.com/medicalife/category/medical/" >
+                                                    <span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-chevron-right"></i>                            </span>
+                                                <span class="elementor-icon-list-text">Medical</span>
+					</a>
+
+				</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://kit.baliniz.com/medicalife/category/insight/" >
+                                                    <span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-chevron-right"></i>                            </span>
+                                                <span class="elementor-icon-list-text">Insight</span>
+					</a>
+
+				</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://kit.baliniz.com/medicalife/category/nutrition/" >
+                                                    <span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-chevron-right"></i>                            </span>
+                                                <span class="elementor-icon-list-text">Nutrition</span>
+					</a>
+
+				</li>
+						</ul>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://kit.baliniz.com/medicalife/2021/05/30/why-primary-health-care-is-very-important-in-our-life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
